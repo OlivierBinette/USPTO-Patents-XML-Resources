@@ -1,3 +1,4 @@
 *.xml filter=lfs diff=lfs merge=lfs -text
 *.dat filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
+*.sgm filter=lfs diff=lfs merge=lfs -text
